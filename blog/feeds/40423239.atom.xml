@@ -161,7 +161,7 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 ctx.beginPath()
 ctx.fillStyle = "   #2894FF"
 ctx.font = "35px ScriptS"
-ctx.fillText("40423239* ",440,350)
+ctx.fillText("40423239 ",440,350)
 ctx.stroke()
 &lt;/script&gt;</summary><category term="w15"></category></entry><entry><title>week7</title><link href="./week7.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-12:./week7.html</id><summary type="html">&lt;p&gt;準備期中驗收
 &lt;/p&gt;
